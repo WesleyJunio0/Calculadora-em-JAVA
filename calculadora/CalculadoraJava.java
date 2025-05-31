@@ -4,6 +4,10 @@ public class CalculadoraJava {
     public float valor1;
     public float valor2;
 
+    {
+        System.out.println("Resultado:");
+
+    }
 
     public CalculadoraJava(float valor1, float valor2) {
         this.valor1 = valor1;
